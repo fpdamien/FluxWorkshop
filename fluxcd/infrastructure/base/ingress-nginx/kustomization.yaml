@@ -5,5 +5,3 @@ resources:
 - nginx-ingress-release.yaml
 - nginx-ingress-source.yaml
 - namespace.yaml
-- nginx-ingress-release.yaml
-- nginx-ingress-source.yaml
